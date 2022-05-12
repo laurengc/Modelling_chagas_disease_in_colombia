@@ -1,3 +1,4 @@
 This code was not used for this project but is available to the group to download climate projections for a range of downscaling techniques. 
 
-For the 
+For the 'sourcing_monthly_data_test_working_final.ipynb' file, the code downloads all the data available for the variables and models of interest. 
+Not ever model has data for every variable but this is acknowledged and thus a list of the models used is created. 
